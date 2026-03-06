@@ -1,10 +1,10 @@
 ### Hi there, I am Anjaney👋
 
 
-### I'm Anjaney, a graduate software engineer passionate about developing human-centric applications  
+### I'm Anjaney, a Junior Application Developer passionate about developing human-centric applications  
 
-- 📖 I’m currently learning .Net and Supabase  
-- ✨ 2024 Goal is to build [AstroAgenda](https://github.com/acmahaja/AstroAgenda)  
+- 📖 I’m currently learning .Net Aspire and TanStack Start  
+- ✨ 2026 Goal is to build [AstroAgenda](https://github.com/acmahaja/AstroAgenda)  
 - ⚡ Fun fact: I love going on long walks in Melbourne  
 
 ## My Skill Set  
